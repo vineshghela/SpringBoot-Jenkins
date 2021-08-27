@@ -198,7 +198,7 @@ Create a new build
 
 Select pipeline build
 
-Set up the pipeline to function using a fork of this repository https://github.com/PCMBarber/SpringBoot-Jenkins
+Set up the pipeline to function using a fork of this repository https://github.com/QACTrainers/SpringBoot-Jenkins
 
 Ensure your pipeline:
 
