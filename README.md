@@ -152,7 +152,11 @@ sudo su jenkins
 cd ~
 ```
 
-Create a new ssh key in the location: ~/.ssh/jenkins_key
+Create a new ssh key in the location: 
+
+```
+/home/jenkins/.ssh/jenkins_key
+```
 
 Leave the password blank
 
